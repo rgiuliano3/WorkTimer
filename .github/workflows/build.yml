@@ -17,4 +17,4 @@ jobs:
         uses: actions/upload-artifact@v4 # Updated to v4
         with:
           name: Work-Timer
-          path: dist/timer.exe
+          path: dist/main.exe
